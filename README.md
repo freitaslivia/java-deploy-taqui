@@ -1,6 +1,4 @@
-![Logo](https://i.ibb.co/qngRpZv/TAQUI-BANNER.png)
-
-# java-deploy-taqui
+# java-deploy-taqui-cp2
 
 ## Integrantes
 :small_blue_diamond:Gabriel Sampaio
